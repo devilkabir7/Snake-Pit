@@ -1,0 +1,132 @@
+******THIS CHARACTER WON!******
+Morriu attacks Paul for 1 damage!
+Paul's health is 49/50
+Paul attacks Morriu for 5 damage!
+Morriu's health is 4/9
+Morriu attacks Paul for 1 damage!
+Paul's health is 48/50
+Paul attacks Morriu for 5 damage!
+Morriu's health is -1/9
+Morriu is dead!
+Picking up
+Brigiu attacks Paul for 2 damage!
+Paul's health is 46/50
+Paul attacks Brigiu for 5 damage!
+Brigiu's health is 4/9
+Brigiu attacks Paul for 2 damage!
+Paul's health is 44/50
+Paul attacks Brigiu for 5 damage!
+Brigiu's health is -1/9
+Brigiu is dead!
+Brigna attacks Paul for 2 damage!
+Paul's health is 42/50
+Brigna attacks Paul for 2 damage!
+Paul's health is 40/50
+Paul attacks Brigna for 5 damage!
+Brigna's health is 0/5
+Brigna is dead!
+Picking up
+Picking up
+item equipped
+Paul the python's Health 40/50   Attack is 7 Defense is 0
+Beotha attacks Paul for 2 damage!
+Paul's health is 38/50
+Paul attacks Beotha for 7 damage!
+Beotha's health is 3/10
+Beotha attacks Paul for 2 damage!
+Paul's health is 36/50
+Paul attacks Beotha for 7 damage!
+Beotha's health is -4/10
+Beotha is dead!
+Picking up
+The creature's eyes glaze over
+Paul attacks Beotha for 7 damage!
+Beotha's health is 2/9
+Beotha the anaconda has broken free!
+Paul attacks Beotha for 7 damage!
+Beotha's health is -5/9
+Beotha is dead!
+Picking up
+item equipped
+Paul the python's Health 36/50   Attack is 7 Defense is 2
+Orboand's health is 16/18
+The monster howls out in pain.
+Orboand's health is 13/18
+The monster howls out in pain.
+Orboand attacks Paul for 1 damage!
+Paul's health is 35/50
+Paul attacks Orboand for 7 damage!
+Orboand's health is 6/18
+Orboand attacks Paul for 1 damage!
+Paul's health is 34/50
+Paul attacks Orboand for 7 damage!
+Orboand's health is -1/18
+Orboand is dead!
+Paul attacks Morrtha for 7 damage!
+Morrtha's health is -1/6
+Morrtha is dead!
+Picking up
+Brigna attacks Paul for 0 damage!
+Paul's health is 34/50
+Paul attacks Brigna for 7 damage!
+Brigna's health is -1/6
+Brigna is dead!
+Taarid attacks Paul for 0 damage!
+Paul's health is 34/50
+Paul attacks Taarid for 7 damage!
+Taarid's health is 1/8
+Taarid attacks Paul for 0 damage!
+Paul's health is 34/50
+Paul attacks Taarid for 7 damage!
+Taarid's health is -6/8
+Taarid is dead!
+Picking up
+Picking up
+Paul attacks Delaid for 7 damage!
+Delaid's health is -6/1
+Delaid is dead!  Eat him for more health!
+Picking up
+Paul the python healed for 4 health!
+Paul's health is 38/50
+Elaboid attacks Paul for 0 damage!
+Paul's health is 38/50
+Elaboid attacks Paul for 0 damage!
+Paul's health is 38/50
+Paul attacks Elaboid for 7 damage!
+Elaboid's health is 2/9
+Elaboid attacks Paul for 0 damage!
+Paul's health is 38/50
+Paul attacks Elaboid for 7 damage!
+Elaboid's health is -5/9
+Elaboid is dead!
+Picking up
+Paul attacks Etbaod for 7 damage!
+Etbaod's health is -6/1
+Etbaod is dead!  Eat him for more health!
+Picking up
+Brigiu attacks Paul for 0 damage!
+Paul's health is 38/50
+Paul attacks Brigiu for 7 damage!
+Brigiu's health is 3/10
+Brigiu attacks Paul for 0 damage!
+Paul's health is 38/50
+Paul attacks Brigiu for 7 damage!
+Brigiu's health is -4/10
+Brigiu is dead!
+Beotha attacks Paul for 0 damage!
+Paul's health is 38/50
+Beotha attacks Paul for 0 damage!
+Paul's health is 38/50
+Paul attacks Beotha for 7 damage!
+Beotha's health is -2/5
+Beotha is dead!
+Picking up
+Agnoan attacks Paul for 0 damage!
+Paul's health is 38/50
+Agnoan attacks Paul for 0 damage!
+Paul's health is 38/50
+Paul attacks Agnoan for 7 damage!
+Agnoan's health is -2/5
+Agnoan is dead!
+Picking up
+Picking up

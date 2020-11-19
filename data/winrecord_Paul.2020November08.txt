@@ -1,0 +1,189 @@
+******THIS CHARACTER WON!******
+Agnobame attacks Paul for 2 damage!
+Paul's health is 48/50
+Agnobame attacks Paul for 2 damage!
+Paul's health is 46/50
+Agnobame attacks Paul for 2 damage!
+Paul's health is 44/50
+Paul attacks Agnobame for 5 damage!
+Agnobame's health is 2/7
+Agnobame attacks Paul for 2 damage!
+Paul's health is 42/50
+Paul attacks Agnobame for 5 damage!
+Agnobame's health is -3/7
+Agnobame is dead!
+Picking up
+Paul attacks Baalam for 5 damage!
+Baalam's health is -4/1
+Baalam is dead!  Eat him for more health!
+Picking up
+Picking up
+Paul attacks Ioigeth for 5 damage!
+Ioigeth's health is -4/1
+Ioigeth is dead!  Eat him for more health!
+Picking up
+Picking up
+Elaigda attacks Paul for 1 damage!
+Paul's health is 41/50
+Elaigda attacks Paul for 1 damage!
+Paul's health is 40/50
+Paul attacks Elaigda for 5 damage!
+Elaigda's health is 5/10
+Elaigda attacks Paul for 1 damage!
+Paul's health is 39/50
+Paul attacks Elaigda for 5 damage!
+Elaigda's health is 0/10
+Elaigda is dead!
+Picking up
+Paul attacks Briggus for 5 damage!
+Briggus's health is -4/1
+Briggus is dead!  Eat him for more health!
+Picking up
+Paul the python healed for 9 health!
+Paul's health is 48/50
+Picking up
+The creature's eyes glaze over
+Danlor's health is 15/19
+The monster howls out in pain.
+Danlor's health is 10/19
+Danlor the cobra has broken free!
+Paul attacks Danlor for 5 damage!
+Danlor's health is 5/19
+Danlor attacks Paul for 3 damage!
+Paul's health is 45/50
+Paul attacks Danlor for 5 damage!
+Danlor's health is 0/19
+Danlor is dead!
+Picking up
+Paul the python healed for 4 health!
+Paul's health is 49/50
+item equipped
+Picking up
+Paul attacks Allman for 5 damage!
+Allman's health is -4/1
+Allman is dead!  Eat him for more health!
+Picking up
+Nemain attacks Paul for 5 damage!
+Paul's health is 44/50
+Paul attacks Nemain for 5 damage!
+Nemain's health is 11/16
+Nemain attacks Paul for 5 damage!
+Paul's health is 39/50
+Paul attacks Nemain for 5 damage!
+Nemain's health is 6/16
+Nemain attacks Paul for 5 damage!
+Paul's health is 34/50
+Paul attacks Nemain for 5 damage!
+Nemain's health is 1/16
+Nemain attacks Paul for 5 damage!
+Paul's health is 29/50
+Paul attacks Nemain for 5 damage!
+Nemain's health is -4/16
+Nemain is dead!
+Picking up
+equipment slot is occupied
+Item Dropped!
+Item Dropped!
+Picking up
+Brigiu attacks Paul for 1 damage!
+Paul's health is 28/50
+Brigiu attacks Paul for 1 damage!
+Paul's health is 27/50
+Brigiu attacks Paul for 1 damage!
+Paul's health is 26/50
+Paul attacks Brigiu for 5 damage!
+Brigiu's health is 4/9
+Brigiu attacks Paul for 1 damage!
+Paul's health is 25/50
+Paul attacks Brigiu for 5 damage!
+Brigiu's health is -1/9
+Brigiu is dead!
+Picking up
+Paul attacks Dantha for 5 damage!
+Dantha's health is 1/6
+Dantha attacks Paul for 1 damage!
+Paul's health is 24/50
+Paul attacks Dantha for 5 damage!
+Dantha's health is -4/6
+Dantha is dead!
+Picking up
+Paul the python healed for 2 health!
+Paul's health is 26/50
+Paul the python healed for 9 health!
+Paul's health is 35/50
+item equipped
+Indtha attacks Paul for 0 damage!
+Paul's health is 35/50
+Indtha attacks Paul for 0 damage!
+Paul's health is 35/50
+Paul attacks Indtha for 7 damage!
+Indtha's health is 2/9
+Indtha attacks Paul for 0 damage!
+Paul's health is 35/50
+Paul attacks Indtha for 7 damage!
+Indtha's health is -5/9
+Indtha is dead!
+Picking up
+Paul attacks Brigma for 7 damage!
+Brigma's health is -1/6
+Brigma is dead!
+Picking up
+Morrda attacks Paul for 1 damage!
+Paul's health is 34/50
+Morrda attacks Paul for 1 damage!
+Paul's health is 33/50
+Paul attacks Morrda for 7 damage!
+Morrda's health is -2/5
+Morrda is dead!
+Picking up
+Picking up
+Paul attacks Ogargus for 7 damage!
+Ogargus's health is -6/1
+Ogargus is dead!  Eat him for more health!
+Elaboiu attacks Paul for 1 damage!
+Paul's health is 32/50
+Paul attacks Elaboiu for 7 damage!
+Elaboiu's health is -1/6
+Elaboiu is dead!
+Picking up
+Picking up
+Paul the python healed for 7 health!
+Paul's health is 39/50
+Picking up
+Paul attacks Ogbolam for 7 damage!
+Ogbolam's health is -6/1
+Ogbolam is dead!  Eat him for more health!
+Picking up
+Morrdne attacks Paul for 1 damage!
+Paul's health is 38/50
+Paul attacks Morrdne for 7 damage!
+Morrdne's health is 1/8
+Morrdne attacks Paul for 1 damage!
+Paul's health is 37/50
+Paul attacks Morrdne for 7 damage!
+Morrdne's health is -6/8
+Morrdne is dead!
+Picking up
+Agnone attacks Paul for 0 damage!
+Paul's health is 37/50
+Agnone attacks Paul for 0 damage!
+Paul's health is 37/50
+Agnone attacks Paul for 0 damage!
+Paul's health is 37/50
+Paul attacks Agnone for 7 damage!
+Agnone's health is -1/6
+Agnone is dead!
+Picking up
+Paul the python healed for 8 health!
+Paul's health is 45/50
+Orched's health is -3/1
+Orched is dead!  Eat him for more health!
+The monster howls out in pain.
+Picking up
+Picking up
+Picking up
+Picking up
+Paul attacks Allbathach for 7 damage!
+Allbathach's health is -6/1
+Allbathach is dead!  Eat him for more health!
+Picking up

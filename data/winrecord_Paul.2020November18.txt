@@ -1,0 +1,129 @@
+******THIS CHARACTER WON!******
+Paul attacks Aeniggus for 5 damage!
+Aeniggus's health is -4/1
+Aeniggus is dead!  Eat him for more health!
+Picking up
+Nemthach's health is 18/20
+The monster howls out in pain.
+Paul attacks Nemthach for 5 damage!
+Nemthach's health is 13/20
+Nemthach attacks Paul for 4 damage!
+Paul's health is 46/50
+Paul attacks Nemthach for 5 damage!
+Nemthach's health is 8/20
+Nemthach attacks Paul for 4 damage!
+Paul's health is 42/50
+Paul attacks Nemthach for 5 damage!
+Nemthach's health is 3/20
+Nemthach attacks Paul for 4 damage!
+Paul's health is 38/50
+Paul attacks Nemthach for 5 damage!
+Nemthach's health is -2/20
+Nemthach is dead!
+Picking up
+Paul attacks Etigan for 5 damage!
+Etigan's health is 4/9
+Etigan attacks Paul for 2 damage!
+Paul's health is 36/50
+Paul attacks Etigan for 5 damage!
+Etigan's health is -1/9
+Etigan is dead!
+Picking up
+Paul attacks Agnoan for 5 damage!
+Agnoan's health is 5/10
+Agnoan attacks Paul for 2 damage!
+Paul's health is 34/50
+Paul attacks Agnoan for 5 damage!
+Agnoan's health is 0/10
+Agnoan is dead!
+Picking up
+Dantha attacks Paul for 1 damage!
+Paul's health is 33/50
+Paul attacks Dantha for 5 damage!
+Dantha's health is 2/7
+Dantha attacks Paul for 1 damage!
+Paul's health is 32/50
+Paul attacks Dantha for 5 damage!
+Dantha's health is -3/7
+Dantha is dead!
+Picking up
+Cidtha attacks Paul for 1 damage!
+Paul's health is 31/50
+Cidtha attacks Paul for 1 damage!
+Paul's health is 30/50
+Paul attacks Cidtha for 5 damage!
+Cidtha's health is 5/10
+Cidtha attacks Paul for 1 damage!
+Paul's health is 29/50
+Paul attacks Cidtha for 5 damage!
+Cidtha's health is 0/10
+Cidtha is dead!
+Picking up
+item equipped
+Paul the python's Health 29/50   Attack is 5 Defense is 5
+Paul attacks Morrma for 5 damage!
+Morrma's health is 1/6
+Morrma attacks Paul for 0 damage!
+Paul's health is 29/50
+Paul attacks Morrma for 5 damage!
+Morrma's health is -4/6
+Morrma is dead!
+Paul attacks Elatha for 5 damage!
+Elatha's health is 0/5
+Elatha is dead!
+Picking up
+item equipped
+Paul the python's Health 29/50   Attack is 9 Defense is 5
+Paul attacks Baiglor for 9 damage!
+Baiglor's health is -8/1
+Baiglor is dead!  Eat him for more health!
+Brigboman attacks Paul for 0 damage!
+Paul's health is 29/50
+Brigboman attacks Paul for 0 damage!
+Paul's health is 29/50
+Brigboman attacks Paul for 0 damage!
+Paul's health is 29/50
+Brigboman attacks Paul for 0 damage!
+Paul's health is 29/50
+The creature's eyes glaze over
+Paul attacks Brigboman for 9 damage!
+Brigboman's health is 8/17
+Paul attacks Brigboman for 9 damage!
+Brigboman's health is -1/17
+Brigboman is dead!
+Picking up
+Paul the python healed for 8 health!
+Paul's health is 37/50
+Paul attacks Morrtha for 9 damage!
+Morrtha's health is 0/9
+Morrtha is dead!
+Picking up
+Picking up
+Paul attacks Agnogus for 9 damage!
+Agnogus's health is -8/1
+Agnogus is dead!  Eat him for more health!
+Paul attacks Eothach for 9 damage!
+Eothach's health is -8/1
+Eothach is dead!  Eat him for more health!
+Picking up
+Agnoma attacks Paul for 0 damage!
+Paul's health is 37/50
+Paul attacks Agnoma for 9 damage!
+Agnoma's health is 1/10
+Agnoma attacks Paul for 0 damage!
+Paul's health is 37/50
+Paul attacks Agnoma for 9 damage!
+Agnoma's health is -8/10
+Agnoma is dead!
+Picking up
+Elaaid attacks Brigboan for 0 damage!
+Brigboan's health is 5/5
+Brigboan attacks Elaaid for 2 damage!
+Elaaid's health is -1/1
+Elaaid is dead!  Eat him for more health!
+Paul attacks Brigboan for 9 damage!
+Brigboan's health is -4/5
+Brigboan is dead!
+Picking up
+Item Dropped!
+Picking up

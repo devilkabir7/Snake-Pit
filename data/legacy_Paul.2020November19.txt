@@ -1,0 +1,69 @@
+******THIS CHARACTER LOST!******
+Paul attacks Danman for 5 damage!
+Danman's health is -4/1
+Danman is dead!  Eat him for more health!
+Picking up
+Picking up
+Enigma attacks Paul for 1 damage!
+Paul's health is 49/50
+Enigma attacks Paul for 1 damage!
+Paul's health is 48/50
+Brigma attacks Paul for 1 damage!
+Paul's health is 47/50
+Paul attacks Brigma for 5 damage!
+Brigma's health is 1/6
+Enigma attacks Paul for 1 damage!
+Paul's health is 46/50
+Brigma attacks Paul for 1 damage!
+Paul's health is 45/50
+Paul attacks Brigma for 5 damage!
+Brigma's health is -4/6
+Brigma is dead!
+Enigma attacks Paul for 1 damage!
+Paul's health is 44/50
+Enigma attacks Paul for 1 damage!
+Paul's health is 43/50
+Paul attacks Enigma for 5 damage!
+Enigma's health is 3/8
+Enigma attacks Paul for 1 damage!
+Paul's health is 42/50
+Paul attacks Enigma for 5 damage!
+Enigma's health is -2/8
+Enigma is dead!
+Picking up
+Danigna attacks Paul for 2 damage!
+Paul's health is 40/50
+Paul attacks Danigna for 5 damage!
+Danigna's health is 4/9
+Danigna attacks Paul for 2 damage!
+Paul's health is 38/50
+Paul attacks Danigna for 5 damage!
+Danigna's health is -1/9
+Danigna is dead!
+Elathach attacks Paul for 3 damage!
+Paul's health is 35/50
+Elathach attacks Paul for 3 damage!
+Paul's health is 32/50
+Elathach attacks Paul for 3 damage!
+Paul's health is 29/50
+Elathach attacks Paul for 3 damage!
+Paul's health is 26/50
+Elathach attacks Paul for 3 damage!
+Paul's health is 23/50
+Elathach attacks Paul for 3 damage!
+Paul's health is 20/50
+Elathach attacks Paul for 3 damage!
+Paul's health is 17/50
+Elathach attacks Paul for 3 damage!
+Paul's health is 14/50
+Paul attacks Bathach for 5 damage!
+Bathach's health is -4/1
+Bathach is dead!  Eat him for more health!
+Nemain attacks Paul for 4 damage!
+Paul's health is 10/50
+Nemain attacks Paul for 4 damage!
+Paul's health is 6/50
+Nemain attacks Paul for 4 damage!
+Paul's health is 2/50
+Taigan attacks Paul for 2 damage!
+Paul's health is 0/50

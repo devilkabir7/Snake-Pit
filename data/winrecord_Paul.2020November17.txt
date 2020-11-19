@@ -1,0 +1,108 @@
+******THIS CHARACTER WON!******
+Paul attacks Elaeth for 5 damage!
+Elaeth's health is -4/1
+Elaeth is dead!  Eat him for more health!
+Picking up
+Picking up
+Paul attacks Morrai for 5 damage!
+Morrai's health is 3/8
+Morrai attacks Paul for 2 damage!
+Paul's health is 48/50
+Paul attacks Morrai for 5 damage!
+Morrai's health is -2/8
+Morrai is dead!
+Picking up
+Paul the python healed for 2 health!
+Paul's health is 50/50
+Nemboma attacks Paul for 2 damage!
+Paul's health is 48/50
+Nemboma attacks Paul for 2 damage!
+Paul's health is 46/50
+Paul attacks Nemboma for 5 damage!
+Nemboma's health is 2/7
+Nemboma attacks Paul for 2 damage!
+Paul's health is 44/50
+Paul attacks Nemboma for 5 damage!
+Nemboma's health is -3/7
+Nemboma is dead!
+Picking up
+Picking up
+Paul attacks Brigaain for 5 damage!
+Brigaain's health is -4/1
+Brigaain is dead!  Eat him for more health!
+Picking up
+Picking up
+item equipped
+item equipped
+Picking up
+Paul attacks Beoand for 8 damage!
+Beoand's health is -7/1
+Beoand is dead!  Eat him for more health!
+Picking up
+Morrartha attacks Paul for 0 damage!
+Paul's health is 44/50
+Paul attacks Morrartha for 8 damage!
+Morrartha's health is 1/9
+Morrartha attacks Paul for 0 damage!
+Paul's health is 44/50
+Paul attacks Morrartha for 8 damage!
+Morrartha's health is -7/9
+Morrartha is dead!
+Picking up
+Agnoartha's health is 2/7
+Agnoartha's health is -5/7
+Agnoartha is dead!
+Dantha's health is 4/7
+The monster howls out in pain.
+Dantha attacks Paul for 0 damage!
+Paul's health is 44/50
+Dantha attacks Paul for 0 damage!
+Paul's health is 44/50
+Paul attacks Dantha for 8 damage!
+Dantha's health is -4/7
+Dantha is dead!
+Picking up
+Paul attacks Enarme for 8 damage!
+Enarme's health is -1/7
+Enarme is dead!
+Picking up
+Brigna attacks Paul for 0 damage!
+Paul's health is 44/50
+Brigna attacks Paul for 0 damage!
+Paul's health is 44/50
+Brigna attacks Paul for 0 damage!
+Paul's health is 44/50
+Picking up
+Brigna attacks Paul for 0 damage!
+Paul's health is 44/50
+Brigna's health is 5/9
+Brigbome's health is 5/9
+The monster howls out in pain.
+Brigna's health is 3/9
+Brigbome's health is 3/9
+The monster howls out in pain.
+The creature's eyes glaze over
+The creature's eyes glaze over
+Paul attacks Brigna for 8 damage!
+Brigna's health is -5/9
+Brigna is dead!
+Paul attacks Brigbome for 8 damage!
+Brigbome's health is -5/9
+Brigbome is dead!
+Picking up
+Paul attacks Agnobaan for 8 damage!
+Agnobaan's health is -2/6
+Agnobaan is dead!
+Picking up
+Morrda attacks Paul for 0 damage!
+Paul's health is 44/50
+Picking up
+Paul attacks Brigaeth for 8 damage!
+Brigaeth's health is -7/1
+Brigaeth is dead!  Eat him for more health!
+Picking up
+Picking up
+Morrda attacks Paul for 0 damage!
+Paul's health is 44/50
+Morrda attacks Paul for 0 damage!
+Paul's health is 44/50
